@@ -1,0 +1,8 @@
+{
+	"database":{
+		"host":"mysql57",
+		"user":"root",
+		"password":"secret",
+		"database":"francois"
+	}
+}
